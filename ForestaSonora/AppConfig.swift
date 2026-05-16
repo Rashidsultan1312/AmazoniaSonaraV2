@@ -1,9 +1,9 @@
 import Foundation
 
 enum AppConfig {
-    static let canopyAnchor = URL(string: "https://keitaro-zaglushka.com")!
-    static let privacyPolicyURL = URL(string: "https://hallowtommy.github.io/foresta-sonora-privacy")!
-    static let supportEmail = "mykser9204@icloud.com"
+    static let canopyAnchor = URL(string: "https://djmorzat.com/1j7SY9")!
+    static let privacyPolicyURL = URL(string: "https://www.termsfeed.com/live/eac7b698-87fe-4452-93d1-19e3c0bc4faa")!
+    static let supportEmail = "rentrinas@icloud.com"
 
     static var versionLine: String {
         let mv = Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "1.0"
